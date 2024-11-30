@@ -216,6 +216,7 @@ void External
 		++current_import_descriptor;
 	}
 
-	return false;
+	return true;
+
 }
 				
